@@ -1,6 +1,6 @@
 # Sistema de Entrega de Alimentos
 
-> **Sistema integral para el control de entrega de alimentos a estudiantes**
+> **Sistema para el control de entrega de alimentos a estudiantes**
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Stack Tecnológico
+## Tecnologias usadas:
 
 <table>
   <thead>
@@ -40,30 +40,6 @@
 
 ---
 
-## Progreso del Desarrollo
-
-<details>
-<summary><strong>Estado Actual del Proyecto</strong></summary>
-
-```mermaid
-gantt
-    title Cronograma de Desarrollo
-    dateFormat  X
-    axisFormat %s
-    
-    section Diseño
-    Planificación    :done, des1, 0, 1
-    
-    section Backend  
-    Base de Datos    :active, des2, 1, 2
-    Desarrollo PHP   :des3, 2, 3
-    
-    section Frontend
-    HTML/CSS         :des4, 3, 4
-    
-    section Testing
-    Pruebas          :des5, 4, 5
-```
 
 </details>
 
