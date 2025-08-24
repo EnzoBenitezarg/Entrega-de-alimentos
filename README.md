@@ -19,7 +19,6 @@
     <tr>
       <th width="150px">Componente</th>
       <th>Tecnología</th>
-      <th width="100px">Versión</th>
     </tr>
   </thead>
   <tbody>
