@@ -45,10 +45,10 @@
 ### Checklist de Tareas
 
 - [x] **Planificación y diseño**
-- [ ] **Implementación de Base de Datos**
-- [ ] **Desarrollo Backend PHP**
-- [ ] **Desarrollo Frontend**
-  - [ ] Interfaces de usuario
+- [x] **Implementación de Base de Datos**
+- [x] **Desarrollo Backend PHP**
+- [x] **Desarrollo Frontend**
+- [ ] Interfaces de usuario
 - [ ] **Testing**
 ---
 
